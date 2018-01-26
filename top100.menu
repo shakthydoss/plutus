@@ -1,0 +1,14 @@
+map-cap,http://www.moneycontrol.com/stocks/marketinfo/marketcap/bse/index.html
+net-sales,http://www.moneycontrol.com/stocks/marketinfo/netsales/bse/index.html
+net-profit,http://www.moneycontrol.com/stocks/marketinfo/netprofit/bse/index.html
+total-assert,http://www.moneycontrol.com/stocks/marketinfo/totassets/bse/index.html
+excise,http://www.moneycontrol.com/stocks/marketinfo/excise/bse/index.html
+other-income,http://www.moneycontrol.com/stocks/marketinfo/othinc/bse/index.html
+raw-material,http://www.moneycontrol.com/stocks/marketinfo/rmc/bse/index.html
+power-fule,http://www.moneycontrol.com/stocks/marketinfo/pfc/bse/index.html
+employee-cost,http://www.moneycontrol.com/stocks/marketinfo/emc/bse/index.html
+pbdit,http://www.moneycontrol.com/stocks/marketinfo/pbdit/bse/index.html
+interst,http://www.moneycontrol.com/stocks/marketinfo/interest/bse/index.html
+tax,http://www.moneycontrol.com/stocks/marketinfo/tax/bse/index.html
+eps,http://www.moneycontrol.com/stocks/marketinfo/eps/bse/index.html
+invest,http://www.moneycontrol.com/stocks/marketinfo/invest/bse/index.html
